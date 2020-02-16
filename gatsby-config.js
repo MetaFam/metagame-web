@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: `MetaGame`,
+  name: `MetaGame`,
   author: `@MetaFam`,
   description: `🐙 A Massive Online Coordination Game`,
   social: [
